@@ -1,0 +1,57 @@
+.unselected-button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid;
+  margin: 5px 10px;
+  cursor: pointer;
+}
+
+.selected-button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid;
+  margin: 5px 10px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+
+.wrong-selected-button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid;
+  margin: 5px 10px;
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}
+
+.submit-button {
+  margin: 5px 10px;
+  padding: 5px 200px;
+  border: 1px solid;
+  border-radius: 5px;
+  background: orange;
+  color: black;
+  cursor: pointer;
+}
+
+.result-box {
+  margin: 5px 10px;
+  padding: 5px 50px;
+  border: 1px solid;
+  border-radius: 5px;
+  color: black;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-green {
+  background-color: green;
+}
