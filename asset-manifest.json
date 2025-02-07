@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/certExamReact.github.io/static/css/main.68acf693.css",
+    "main.js": "/certExamReact.github.io/static/js/main.7288a93b.js",
+    "index.html": "/certExamReact.github.io/index.html",
+    "main.68acf693.css.map": "/certExamReact.github.io/static/css/main.68acf693.css.map",
+    "main.7288a93b.js.map": "/certExamReact.github.io/static/js/main.7288a93b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68acf693.css",
+    "static/js/main.7288a93b.js"
+  ]
+}
